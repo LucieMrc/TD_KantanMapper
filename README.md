@@ -59,5 +59,3 @@ In `Edit Texture`, you can flip, crop and resize your texture to fit the shape.
 ![Screenshot of the Edit Texture window](./images/screen10.png)
 
 By using `Set as Mask`, you can use your shape as a mask on your texture, to make sure it won't become distorted when applied to the shape.
-
-# TD_KantanMapper
