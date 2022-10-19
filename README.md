@@ -1,6 +1,6 @@
 # Using Kantan Mapper in TouchDesigner 
 
-The goal is to use KantanMapper in TouchDesigner to create video mapping installations. KantanMapper allows you to place shapes and masks on real life objects and assign TOP nodes to them.
+**The goal is to use KantanMapper in TouchDesigner to create video mapping installations. KantanMapper allows you to place shapes and masks on real life objects and assign TOP nodes to them.**
 
 The process will consists of setting up KantanMapper in TouchDesigner, creating shapes, and attribute visuals to them.
 
