@@ -4,7 +4,11 @@
 
 The process will consists of setting up KantanMapper in TouchDesigner, creating shapes, and attribute visuals to them.
 
-# Set up
+# Set up with the projector
+
+///
+
+# Set up in Kantan
 
 ![Screenshot of the Palette](./images/screen1.png)
 
@@ -12,7 +16,7 @@ Open the **KantanMapper** window from the Palette, in the Mapping tab.
 
 ![Screenshot of the KantanMapper container](./images/screen2.png)
 
-In the KantanMapper container, open the `Kantan window`.
+In the KantanMapper container, click on `Open Kantan window`.
 
 The left part is the controls, with the list of the shapes and the tools.
 The right part is the canvas that you project.
@@ -21,7 +25,7 @@ The right part is the canvas that you project.
 You can fill in the resolution of your video projector, and open `Window Options`.
 
 ![Screenshot of the Options window](./images/screen4.png)
-In the **Options window**, make sure the `Monitor` selected is your video projector (0 is often your main screen, 1 your projector).
+In the **Options window**, make sure the `Monitor` selected is your video projector (often 0 is your main screen, 1 your projector).
 
 # Mapping the surfaces
 
